@@ -6,6 +6,6 @@ id,nome,area,salario,bonus_percentual
 5,,RH,3800,0.15
 6,Elisa Prado,Financeiro,6100,-0.05
 7,Fernando Dias,Vendas,4800,0.07
-8,João Silva,Operações,5300,abc
+8,Joao Silva,Operacoes,5300,abc
 9,Maria Alves,TI,6100,0.12
-10,Pedro Santos,Operações,5100,0.08
+10,Pedro Santos,Operacoes,5100,0.08
